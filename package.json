@@ -1,0 +1,21 @@
+{
+  "name": "git_projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihaneafyf/git_projet.git"
+  },
+  "keywords": [],
+  "author": "jihane",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jihaneafyf/git_projet/issues"
+  },
+  "homepage": "https://github.com/jihaneafyf/git_projet#readme"
+}
